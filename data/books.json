@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "edition": "1ª edición, Editorial Sudamericana, 1967",
+    "genre": "Novela",
+    "status": "Disponible",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "edition": "Edición ilustrada, Salamandra, 2015",
+    "genre": "Fábula",
+    "status": "Prestado",
+    "notes": "Prestado a María - Enero 2025"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "edition": "Edición definitiva, DeBolsillo, 2020",
+    "genre": "Ciencia ficción",
+    "status": "Disponible",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "edition": "Edición RAE, Alfaguara, 2015",
+    "genre": "Novela",
+    "status": "Disponible",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "title": "Sapiens: De animales a dioses",
+    "author": "Yuval Noah Harari",
+    "edition": "1ª edición, Debate, 2014",
+    "genre": "Ensayo",
+    "status": "Reservado",
+    "notes": "Reservado para Pedro"
+  }
+]

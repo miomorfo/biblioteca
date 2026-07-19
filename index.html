@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Biblioteca</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1 class="header__title">📚 Mi Biblioteca</h1>
+      <p class="header__subtitle">Explora mis libros y pídeme prestado el que quieras</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <div class="search-box">
+        <svg class="search-box__icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <label for="search-input" class="visually-hidden">Buscar libros</label>
+        <input
+          type="text"
+          id="search-input"
+          class="search-box__input"
+          placeholder="Buscar por título, autor o género..."
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="filters">
+        <label for="filter-status" class="visually-hidden">Filtrar por estado</label>
+        <select id="filter-status" class="filters__select">
+          <option value="todos">Todos los estados</option>
+          <option value="Disponible">Disponible</option>
+          <option value="Prestado">Prestado</option>
+          <option value="Reservado">Reservado</option>
+        </select>
+
+        <label for="filter-genre" class="visually-hidden">Filtrar por género</label>
+        <select id="filter-genre" class="filters__select">
+          <option value="todos">Todos los géneros</option>
+        </select>
+      </div>
+
+      <div class="stats" aria-live="polite">
+        <span id="book-count">0 libros</span>
+      </div>
+    </section>
+
+    <section id="books-grid" class="books-grid" aria-label="Lista de libros">
+      <!-- Los libros se cargan dinámicamente -->
+    </section>
+
+    <div id="no-results" class="no-results" hidden>
+      <p>No se encontraron libros con esos criterios 🔍</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>¿Te interesa algún libro? ¡Escríbeme para pedirlo prestado!</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
