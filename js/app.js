@@ -76,10 +76,10 @@
 
   function getStatusClass(status) {
     const normalized = status.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-    if (normalized === 'disponible') return 'disponible';
+    if (normalized === 'en estanteria') return 'estanteria';
     if (normalized === 'prestado') return 'prestado';
     if (normalized === 'reservado') return 'reservado';
-    return 'disponible';
+    return 'estanteria';
   }
 
   function createBookCard(book) {

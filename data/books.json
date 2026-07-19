@@ -10,7 +10,7 @@
     "isbn": "",
     "description": "Guía sobre los picaflores presentes en Chile, con ilustraciones y datos sobre su biología y distribución.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -24,7 +24,7 @@
     "isbn": "",
     "description": "Guía rápida en inglés sobre los colibríes de Chile con ilustraciones y mapas de distribución.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -38,21 +38,7 @@
     "isbn": "978-0691129761",
     "description": "Guía de campo ilustrada de las aves presentes en Chile, con descripciones de especies y mapas de distribución.",
     "cover": "",
-    "status": "Disponible",
-    "notes": ""
-  },
-  {
-    "id": 4,
-    "title": "Flora y fauna de Chile",
-    "author": "Adriana E. Hoffmann",
-    "edition": "",
-    "genre": "Flora / Naturaleza",
-    "year": 0,
-    "pages": 0,
-    "isbn": "",
-    "description": "Compendio de la flora y fauna chilena con descripciones e ilustraciones.",
-    "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -66,7 +52,7 @@
     "isbn": "",
     "description": "Guía ilustrada de la flora silvestre chilena, incluyendo plantas nativas y endémicas.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -80,7 +66,7 @@
     "isbn": "",
     "description": "Guía completa de las aves de Chile incluyendo las presentes en sus islas oceánicas, con ilustraciones detalladas y mapas.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -94,7 +80,7 @@
     "isbn": "",
     "description": "Guía de aves de Chile por uno de los ornitólogos más reconocidos del país.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -108,7 +94,7 @@
     "isbn": "",
     "description": "",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -122,7 +108,7 @@
     "isbn": "978-1426218989",
     "description": "Impresionante colección fotográfica de aves del proyecto Photo Ark de National Geographic, documentando cientos de especies desde pequeños pinzones hasta majestuosas águilas.",
     "cover": "covers/birds-of-the-photo-ark.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -136,7 +122,7 @@
     "isbn": "978-1426217777",
     "description": "Retratos de animales raros y en peligro de extinción del proyecto Photo Ark. Documenta la diversidad de la vida animal en el planeta.",
     "cover": "covers/rare-photo-ark.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -150,7 +136,7 @@
     "isbn": "978-1426217777",
     "description": "El libro que inició el proyecto Photo Ark: retratos íntimos de animales del mundo, especialmente los que están en peligro de extinción.",
     "cover": "covers/the-photo-ark.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -164,7 +150,7 @@
     "isbn": "978-1426220593",
     "description": "Tercer volumen del proyecto Photo Ark, enfocado en las especies más vulnerables del mundo que están desapareciendo del planeta.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -178,7 +164,7 @@
     "isbn": "",
     "description": "Manual práctico para identificar plumas de aves por su forma, color y estructura.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -192,7 +178,7 @@
     "isbn": "",
     "description": "Guía de rutas de trekking en Chile con mapas, descripciones y fotografías de paisajes.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -206,7 +192,7 @@
     "isbn": "",
     "description": "Ilustraciones y descripción de las aves del Mesozoico, explorando la evolución de los dinosaurios a las aves modernas.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -220,7 +206,7 @@
     "isbn": "",
     "description": "Registro de los dinosaurios descubiertos en territorio chileno, con ilustraciones y contexto geológico.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -234,7 +220,7 @@
     "isbn": "978-0674040755",
     "description": "La obra definitiva sobre la biología, ecología y comportamiento social de las hormigas. Premio Pulitzer de no ficción 1991.",
     "cover": "covers/ants-holldobler-wilson.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -248,7 +234,7 @@
     "isbn": "978-0691179315",
     "description": "Estudio detallado de la arquitectura subterránea de los nidos de hormigas. Tschinkel describe métodos ingeniosos para crear moldes de nidos con yeso y metal fundido.",
     "cover": "covers/ant-architecture.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -262,7 +248,7 @@
     "isbn": "",
     "description": "Historia natural de las hormigas, su evolución y su impacto en los ecosistemas.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -276,7 +262,7 @@
     "isbn": "978-0393338683",
     "description": "Estudio especializado sobre las hormigas cortadoras de hojas, su agricultura de hongos y compleja organización social.",
     "cover": "covers/the-leafcutter-ants.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -290,7 +276,7 @@
     "isbn": "",
     "description": "Novela que entrelaza la historia de una familia humana con la vida de una colonia de hormigas, mezclando ficción y divulgación científica.",
     "cover": "covers/las-hormigas-werber.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -304,7 +290,7 @@
     "isbn": "",
     "description": "Secuela de 'Las hormigas'. Continúa explorando el mundo de las hormigas y su relación con la humanidad.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -318,21 +304,21 @@
     "isbn": "",
     "description": "Manual introductorio al estudio de los insectos, su clasificación, anatomía y ecología.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
     "id": 24,
     "title": "El Gran Diseño",
-    "author": "Terry Pratchett",
-    "edition": "Plaza & Janés / DeBolsillo",
-    "genre": "Fantasía",
-    "year": 1999,
-    "pages": 0,
-    "isbn": "978-8497596794",
-    "description": "Primera novela del Mundodisco. En un mundo plano sostenido por cuatro elefantes sobre una tortuga gigante, un hechicero torpe y un turista ingenuo emprenden una desastrosa aventura.",
-    "cover": "covers/el-color-de-la-magia.jpg",
-    "status": "Disponible",
+    "author": "Stephen Hawking / Leonard Mlodinow",
+    "edition": "Crítica, 2010",
+    "genre": "Divulgación científica",
+    "year": 2010,
+    "pages": 216,
+    "isbn": "978-6077470007",
+    "description": "Hawking y Mlodinow abordan las preguntas fundamentales sobre el universo: por qué existe algo en vez de nada, por qué existimos, y si la naturaleza se rige por leyes que no necesitan un diseñador.",
+    "cover": "covers/el-gran-diseno.jpg",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -346,7 +332,7 @@
     "isbn": "978-8497596794",
     "description": "Primera novela del Mundodisco. En un mundo plano sostenido por cuatro elefantes sobre una tortuga gigante, un hechicero torpe y un turista ingenuo emprenden una desastrosa aventura.",
     "cover": "covers/el-color-de-la-magia.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -360,7 +346,7 @@
     "isbn": "",
     "description": "Segunda novela del Mundodisco. Rincewind y Dosflores continúan sus aventuras mientras una estrella roja amenaza con destruir el Disco.",
     "cover": "covers/la-luz-fantastica.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -374,7 +360,7 @@
     "isbn": "",
     "description": "Cuarta novela del Mundodisco. La Muerte decide tomar un aprendiz, un joven torpe llamado Mort que se enamora de la hija de la Muerte.",
     "cover": "covers/mort.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -388,7 +374,7 @@
     "isbn": "",
     "description": "Novela juvenil de Pratchett sobre unos diminutos seres que viven bajo una alfombra y deben buscar un nuevo hogar cuando su mundo es destruido.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -402,7 +388,7 @@
     "isbn": "978-8471766748",
     "description": "Libro interactivo de la serie 'Elige tu propia aventura'. El lector decide el destino del protagonista atrapado en un mundo de hormigas gigantes.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -416,7 +402,7 @@
     "isbn": "",
     "description": "Mitad memorias, mitad guía de escritura. Stephen King comparte su experiencia personal y sus consejos para escribir bien, desde la gramática hasta la disciplina del oficio.",
     "cover": "covers/mientras-escribo.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -430,7 +416,7 @@
     "isbn": "978-8441421264",
     "description": "Métodos para mejorar la memoria, lectura rápida y capacidad de estudio, por el campeón mundial de memorización Ramón Campayo.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -444,7 +430,7 @@
     "isbn": "978-8445006696",
     "description": "Un ángel y un demonio, acostumbrados a la vida en la Tierra, se alían para evitar el Apocalipsis. Comedia satírica sobre el fin del mundo.",
     "cover": "covers/buenos-presagios.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -458,7 +444,7 @@
     "isbn": "",
     "description": "Guía ilustrada en formato manga sobre anatomía y fisiología humana, con explicaciones claras y dibujos didácticos.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -472,7 +458,7 @@
     "isbn": "978-1645679158",
     "description": "Compendio de consejos y mapas para aspirantes a Game Master. Estrategias para crear mazmorras, batallas y encuentros de roleplay para D&D, Pathfinder y otros sistemas.",
     "cover": "covers/so-you-want-to-be-a-game-master.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -486,7 +472,7 @@
     "isbn": "978-8497592901",
     "description": "Saga épica ambientada en la Inglaterra del siglo XII que narra la construcción de una catedral gótica, entrelazando las vidas de sus protagonistas con intrigas políticas y religiosas.",
     "cover": "covers/los-pilares-de-la-tierra.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -500,7 +486,7 @@
     "isbn": "",
     "description": "Una niña descubre una puerta secreta en su casa que lleva a una versión alternativa y siniestra de su vida, donde su 'otra madre' tiene botones en lugar de ojos.",
     "cover": "covers/coraline.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -514,7 +500,7 @@
     "isbn": "978-8497644372",
     "description": "Más de 2.500 motocicletas desde 1885 hasta la actualidad, con fotografías, especificaciones técnicas e historia de cada marca.",
     "cover": "covers/enciclopedia-motocicletas.jpg",
-    "status": "Disponible",
+    "status": "En estantería",
     "notes": ""
   },
   {
@@ -528,7 +514,189 @@
     "isbn": "",
     "description": "Guía ilustrada para identificar y conocer los insectos nativos de Chile, con información sobre su conservación y hábitat.",
     "cover": "",
-    "status": "Disponible",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "title": "El prisionero de Elderwood",
+    "author": "",
+    "edition": "",
+    "genre": "Aventura / Librojuego",
+    "year": 0,
+    "pages": 0,
+    "isbn": "",
+    "description": "Librojuego interactivo donde el lector, como Redmond Longbow, debe escapar de la prisión del Rey Cradack y liberar a su pueblo, tomando decisiones que cambian el curso de la historia.",
+    "cover": "",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "title": "Chile, una guía rápida: Funga, flora y fauna",
+    "author": "Rodrigo Verdugo Tartakowsky",
+    "edition": "Fagus del Sur Ediciones",
+    "genre": "Naturaleza",
+    "year": 0,
+    "pages": 0,
+    "isbn": "",
+    "description": "Guía rápida de campo para identificar especies de hongos, flora y fauna presentes en Chile.",
+    "cover": "",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "title": "Aves de Chile",
+    "author": "Daniel Martínez-Piña",
+    "edition": "",
+    "genre": "Aves / Naturaleza",
+    "year": 0,
+    "pages": 0,
+    "isbn": "",
+    "description": "Guía de aves de Chile por Daniel Martínez-Piña.",
+    "cover": "",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "title": "Los jardines de la Luna",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #1",
+    "genre": "Fantasía épica",
+    "year": 1999,
+    "pages": 0,
+    "isbn": "978-8466660877",
+    "description": "Libro 1 de la decalogía Malaz: El Libro de los Caídos (Gardens of the Moon).",
+    "cover": "covers/los-jardines-de-la-luna.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "title": "Las puertas de la casa de la muerte",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #2",
+    "genre": "Fantasía épica",
+    "year": 2000,
+    "pages": 0,
+    "isbn": "978-8498005875",
+    "description": "Libro 2 de la decalogía Malaz: El Libro de los Caídos (Deadhouse Gates).",
+    "cover": "covers/las-puertas-de-la-casa-de-la-muerte.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "title": "Recuerdos de hielo",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #3",
+    "genre": "Fantasía épica",
+    "year": 2001,
+    "pages": 0,
+    "isbn": "",
+    "description": "Libro 3 de la decalogía Malaz: El Libro de los Caídos (Memories of Ice).",
+    "cover": "covers/recuerdos-de-hielo.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "title": "La casa de cadenas",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #4",
+    "genre": "Fantasía épica",
+    "year": 2002,
+    "pages": 0,
+    "isbn": "",
+    "description": "Libro 4 de la decalogía Malaz: El Libro de los Caídos (House of Chains).",
+    "cover": "covers/la-casa-de-cadenas.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "title": "Mareas de Medianoche",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #5",
+    "genre": "Fantasía épica",
+    "year": 2004,
+    "pages": 0,
+    "isbn": "978-8417347222",
+    "description": "Libro 5 de la decalogía Malaz: El Libro de los Caídos (Midnight Tides).",
+    "cover": "covers/mareas-de-medianoche.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "title": "Los cazahuesos",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #6",
+    "genre": "Fantasía épica",
+    "year": 2006,
+    "pages": 0,
+    "isbn": "978-8417347314",
+    "description": "Libro 6 de la decalogía Malaz: El Libro de los Caídos (The Bonehunters).",
+    "cover": "covers/los-cazahuesos.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "title": "La cosecha del segador",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #7",
+    "genre": "Fantasía épica",
+    "year": 2007,
+    "pages": 0,
+    "isbn": "",
+    "description": "Libro 7 de la decalogía Malaz: El Libro de los Caídos (Reaper's Gale).",
+    "cover": "covers/la-cosecha-del-segador.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "title": "Doblan las campanas",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #8",
+    "genre": "Fantasía épica",
+    "year": 2008,
+    "pages": 0,
+    "isbn": "",
+    "description": "Libro 8 de la decalogía Malaz: El Libro de los Caídos (Toll the Hounds).",
+    "cover": "covers/doblan-las-campanas.jpg",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "title": "Polvo de sueños",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #9",
+    "genre": "Fantasía épica",
+    "year": 2009,
+    "pages": 0,
+    "isbn": "",
+    "description": "Libro 9 de la decalogía Malaz: El Libro de los Caídos (Dust of Dreams).",
+    "cover": "",
+    "status": "En estantería",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "title": "El Dios Tullido",
+    "author": "Steven Erikson",
+    "edition": "Malaz: El Libro de los Caídos #10",
+    "genre": "Fantasía épica",
+    "year": 2011,
+    "pages": 0,
+    "isbn": "",
+    "description": "Libro 10 de la decalogía Malaz: El Libro de los Caídos (The Crippled God).",
+    "cover": "covers/el-dios-tullido.jpg",
+    "status": "En estantería",
     "notes": ""
   }
 ]

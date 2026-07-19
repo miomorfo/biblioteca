@@ -281,7 +281,7 @@ body {
   font-weight: 600;
 }
 
-.book-card__status--disponible { color: var(--color-available); }
+.book-card__status--estanteria { color: var(--color-available); }
 .book-card__status--prestado { color: var(--color-borrowed); }
 .book-card__status--reservado { color: var(--color-reserved); }
 
