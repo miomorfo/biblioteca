@@ -1,32 +1,24 @@
 # 📚 Mi Biblioteca
 
-Catálogo público de mi biblioteca física para que mis familiares y amigos puedan ver qué libros tengo y pedirme uno prestado.
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen?logo=github)](https://miomorfo.github.io/biblioteca/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-🔗 **Ver la biblioteca:** https://miomorfo.github.io/biblioteca/
+**[🔗 Ver la biblioteca](https://miomorfo.github.io/biblioteca/)**
 
-## Cómo funciona
+---
 
-El sitio muestra todos mis libros con su edición, género y estado actual:
-- 🟢 **Disponible** — Lo tengo y podés pedirlo
-- 🔴 **Prestado** — Alguien lo tiene, fijate en las notas quién
-- 🟠 **Reservado** — Ya está apartado para alguien
+Catálogo visual de mi colección personal de libros físicos. Un registro de lo que tengo en mis estantes, publicado como sitio estático para que familiares y amigos puedan explorar la colección.
 
-Incluye buscador por título/autor/género y filtros por estado.
+## Qué es esto
 
-## Cómo agregar o editar libros
+Un sitio web simple que muestra mis libros con sus portadas, organizados por género. Se puede buscar por título o autor, filtrar por género, y hacer click en cualquier libro para ver su detalle (descripción, edición, páginas, ISBN, estado).
 
-Editar el archivo `data/books.json`. Cada libro tiene esta estructura:
+## Temáticas principales
 
-```json
-{
-  "id": 6,
-  "title": "Nombre del libro",
-  "author": "Nombre del autor",
-  "edition": "Edición, editorial, año",
-  "genre": "Género",
-  "status": "Disponible",
-  "notes": ""
-}
-```
-
-Después de hacer push, el sitio se actualiza solo en unos minutos.
+- Aves y naturaleza de Chile
+- Entomología (hormigas)
+- Fotografía de naturaleza
+- Paleontología
+- Flora chilena
