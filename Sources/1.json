@@ -1,0 +1,231 @@
+{
+  "estante_superior": [
+    {
+      "titulo": "El gran diseño",
+      "autor": "Stephen Hawking y Leonard Mlodinow",
+      "editorial": "Crítica"
+    },
+    {
+      "titulo": "Prisionero de Elderwood",
+      "autor": "Bruce Alzaín",
+      "editorial": null
+    },
+    {
+      "titulo": "Ritos iguales",
+      "autor": "Terry Pratchett",
+      "editorial": null
+    },
+    {
+      "titulo": "Brujerías",
+      "autor": "Terry Pratchett",
+      "editorial": null
+    },
+    {
+      "titulo": "¡Guaridas! ¡Guaridas!",
+      "autor": "Terry Pratchett",
+      "editorial": null
+    },
+    {
+      "titulo": "Prisionero de las hormigas",
+      "autor": "R. A. Montgomery",
+      "editorial": null
+    },
+    {
+      "titulo": "El pueblo de la alfombra",
+      "autor": "Terry Pratchett",
+      "editorial": null
+    },
+    {
+      "titulo": "Mort",
+      "autor": "Terry Pratchett",
+      "editorial": null
+    },
+    {
+      "titulo": "Mientras escribo",
+      "autor": "Stephen King",
+      "editorial": null
+    },
+    {
+      "titulo": "Insectos de Chile: Guía para la identificación y conservación de especies nativas",
+      "autor": "Ramón Campino",
+      "editorial": "LibreVoz"
+    },
+    {
+      "titulo": "Desarrolla una mente prodigiosa",
+      "autor": "Ramón Campoy",
+      "editorial": null
+    },
+    {
+      "titulo": "Mini hábitos",
+      "autor": "Stephen Guise",
+      "editorial": null
+    },
+    {
+      "titulo": "Buenos presagios",
+      "autor": "Terry Pratchett y Neil Gaiman",
+      "editorial": "Minotauro"
+    },
+    {
+      "titulo": "La corona del juramento",
+      "autor": "Atsushi Suzumi (Autor original: Ryo Mizuno)",
+      "editorial": "Kadokawa Comics A"
+    },
+    {
+      "titulo": "So You Want to Be a Game Master",
+      "autor": "Justin Alexander",
+      "editorial": "Media Lab Books"
+    },
+    {
+      "titulo": "The Game Master's Handbook of Proactive Roleplaying",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Una vida en nuestro planeta",
+      "autor": "David Attenborough",
+      "editorial": null
+    },
+    {
+      "titulo": "Coraline",
+      "autor": "Neil Gaiman",
+      "editorial": null
+    },
+    {
+      "titulo": "Los pilares de la tierra",
+      "autor": "Ken Follett",
+      "editorial": null
+    },
+    {
+      "titulo": "La enciclopedia de las motocicletas",
+      "autor": "Roger Hicks",
+      "editorial": null
+    }
+  ],
+  "estante_inferior": [
+    {
+      "titulo": "Picaflores de Chile / Hummingbirds of Chile",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Chile: Una guía rápida / A Quick Guide",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Aves de Chile",
+      "autor": "Daniel Martínez-Piña",
+      "editorial": "Ediciones Museo"
+    },
+    {
+      "titulo": "Flora y fauna de Chile",
+      "autor": "Sharon Chester",
+      "editorial": "Lynx"
+    },
+    {
+      "titulo": "Flora silvestre de Chile",
+      "autor": "Adriana E. Hoffmann J.",
+      "editorial": "Ediciones Fundación Claudio Gay"
+    },
+    {
+      "titulo": "Aves de Chile: Sus islas oceánicas y península antártica",
+      "autor": "Álvaro Jaramillo",
+      "editorial": "Lynx"
+    },
+    {
+      "titulo": "Plantas carnívoras",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Birds of the Photo Ark",
+      "autor": "Joel Sartore",
+      "editorial": "National Geographic"
+    },
+    {
+      "titulo": "Rare",
+      "autor": "Joel Sartore",
+      "editorial": "National Geographic"
+    },
+    {
+      "titulo": "Reconocer fácilmente las plumas",
+      "autor": "Cloé Fraigneau",
+      "editorial": "Omega"
+    },
+    {
+      "titulo": "Trekking por Chile",
+      "autor": null,
+      "editorial": "Compass"
+    },
+    {
+      "titulo": "Birds of the Mesozoic",
+      "autor": "Juan Benito - Roc Olivé",
+      "editorial": "Lynx"
+    },
+    {
+      "titulo": "Dinosaurios de Chile: Pasado y presente",
+      "autor": "José Luis Sanz",
+      "editorial": "Editorial Sur Ciencia"
+    },
+    {
+      "titulo": "Los dinosaurios voladores",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Ants",
+      "autor": "Heather Campbell y Benjamin Blanchard",
+      "editorial": null
+    },
+    {
+      "titulo": "Ant Architecture",
+      "autor": "Walter R. Tschinkel",
+      "editorial": null
+    },
+    {
+      "titulo": "Historias del mundo de las hormigas",
+      "autor": "Pierre Huber",
+      "editorial": "Crítica"
+    },
+    {
+      "titulo": "Historia de las hormigas",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "La hormiga de fuego invicta",
+      "autor": null,
+      "editorial": "Blanco"
+    },
+    {
+      "titulo": "The Leafcutter Ants",
+      "autor": "Bert Hölldobler y Edward O. Wilson",
+      "editorial": "Fisher Cover"
+    },
+    {
+      "titulo": "Ants of North America",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Las hormigas",
+      "autor": "Bernard Werber",
+      "editorial": null
+    },
+    {
+      "titulo": "El día de las hormigas",
+      "autor": "Bernard Werber",
+      "editorial": "P&J"
+    },
+    {
+      "titulo": "Introducción a la entomología",
+      "autor": null,
+      "editorial": null
+    },
+    {
+      "titulo": "Vanishing",
+      "autor": "Joel Sartore",
+      "editorial": "National Geographic"
+    }
+  ]
+}
